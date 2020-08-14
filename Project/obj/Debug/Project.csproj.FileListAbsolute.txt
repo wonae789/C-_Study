@@ -1,0 +1,7 @@
+C:\Users\Hoon\Desktop\dev\C#\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Hoon\Desktop\dev\C#\Project\Project\bin\Debug\Project.exe
+C:\Users\Hoon\Desktop\dev\C#\Project\Project\bin\Debug\Project.pdb
+C:\Users\Hoon\Desktop\dev\C#\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Hoon\Desktop\dev\C#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Hoon\Desktop\dev\C#\Project\Project\obj\Debug\Project.exe
+C:\Users\Hoon\Desktop\dev\C#\Project\Project\obj\Debug\Project.pdb
